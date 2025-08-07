@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waqas Gul</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<h3 align="center">A passionate MERN STACK Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqas-gul&label=Profile%20views&color=0e75b6&style=flat" alt="waqas-gul" /> </p>
 
