@@ -1,35 +1,60 @@
 <div align="center">
 
-# Hi, I'm Waqas Gul 👋
+# Hey, I'm Waqas Gul 👋
 
-### Full-Stack MERN Developer | React Native Learner | Backend & API Enthusiast
+### Full-Stack Developer building web, mobile, and desktop applications
 
-I build clean, scalable, and user-focused web applications using the MERN stack. My focus is on writing maintainable code, creating smooth user experiences, and turning real business requirements into working digital products.
+I work mostly with the **MERN stack**, but I also build cross-platform apps using **React Native** and desktop apps using **Electron**. I enjoy turning ideas into clean, usable products with practical architecture, simple UI, and reliable backend systems.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=waqas-gul&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/waqas-gul)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat&logo=vercel&logoColor=white)](https://wgdeveloper.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-gul-b7580826b/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:waqasgul369@gmail.com)
+<br />
+
+<a href="https://wgdeveloper.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/waqas-gul-b7580826b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:waqasgul369@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=waqas-gul&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a passionate **MERN Stack Developer from Pakistan** with experience building full-stack web applications using **React.js, Node.js, Express.js, MongoDB, PostgreSQL, Firebase, and modern frontend tools**.
+I'm a developer from Pakistan focused on building practical software that solves real problems.
 
-I enjoy working on practical products, clean UI flows, backend APIs, database structures, authentication systems, and scalable application architecture. I am also expanding my skills in **React Native** to build cross-platform mobile applications.
+I have experience working with **React.js, Node.js, Express.js, MongoDB, PostgreSQL, Firebase, React Native, Electron, Zustand, Vue.js**, and modern deployment tools. I like working on products where frontend, backend, database, and deployment all need to come together properly.
+
+Most of my work is around:
+
+- Full-stack web applications
+- Admin panels and dashboards
+- LMS and business platforms
+- Mobile apps with React Native
+- Desktop apps with Electron
+- REST APIs and backend services
+- Clean UI implementation
+- Database design and integration
+- Deployment on Vercel, Render, Firebase, and cloud platforms
 
 ---
 
-## Current Focus
+## Currently Working On
 
-- Working on **LMS platforms and full-stack web applications**
-- Learning and building with **React Native**
-- Improving backend architecture, API design, and database performance
-- Exploring **DevOps workflows**, deployment, and production-ready application practices
-- Open to collaboration on **MERN stack and full-stack product development projects**
+- Building and improving **LMS-based platforms**
+- Learning deeper **React Native** app development
+- Exploring **Electron** for desktop applications
+- Improving backend architecture and API design
+- Practicing cleaner deployment workflows using **Render, Vercel, Docker, and AWS**
+- Learning more about DevOps and production-ready systems
 
 ---
 
@@ -38,89 +63,62 @@ I enjoy working on practical products, clean UI flows, backend APIs, database st
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,tailwind,bootstrap,sass" />
 </p>
 
-### Backend & Database
+### State Management & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,graphql" />
+  <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 </p>
 
-### Mobile, Tools & Cloud
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,android,kotlin,docker,aws,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,php,python" />
 </p>
 
-### Other Languages & Tools
+### Databases & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,matlab" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+</p>
+
+### Mobile & Desktop
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,electron,android,kotlin" />
+</p>
+
+### Deployment, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,aws,docker,git,github,postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## What I Can Help With
+## Things I Like Building
 
-- Full-stack MERN application development
-- React.js frontend development
-- Node.js and Express.js REST APIs
-- MongoDB and PostgreSQL database design
-- Firebase integration
-- Authentication and role-based access systems
-- LMS, dashboard, admin panel, and business web app development
-- Responsive UI development using Tailwind CSS and Bootstrap
-
----
-
-## Featured Links
-
-- **Portfolio:** [wgdeveloper.netlify.app](https://wgdeveloper.netlify.app/)
-- **LinkedIn:** [linkedin.com/in/waqas-gul-b7580826b](https://www.linkedin.com/in/waqas-gul-b7580826b/)
-- **Email:** [waqasgul369@gmail.com](mailto:waqasgul369@gmail.com)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=waqas-gul&show_icons=true&theme=tokyonight&hide_border=true" alt="Waqas Gul GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqas-gul&layout=compact&theme=tokyonight&hide_border=true" alt="Waqas Gul Top Languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=waqas-gul&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Waqas Gul GitHub Trophies" />
-
-</div>
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/waqas-gul-b7580826b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Waqas%20Gul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/waqasi.369" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Waqas%20Gul-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/w_a_q_a_s_i/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-w__a__q__a__s__i-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### Clean code. Practical products. Continuous improvement.
-
-</div>
+```js
+const waqas = {
+  role: "Full-Stack Developer",
+  location: "Pakistan",
+  mainStack: ["React", "Node.js", "Express", "MongoDB"],
+  learning: ["React Native", "Electron", "DevOps"],
+  frontend: ["React.js", "Vue.js", "Tailwind CSS", "Bootstrap"],
+  backend: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+  tools: ["Git", "GitHub", "Docker", "Postman"],
+  deployment: ["Vercel", "Netlify", "Render", "Firebase", "AWS"],
+  focus: "Building clean, practical, and scalable applications"
+};
