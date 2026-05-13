@@ -1,40 +1,126 @@
-<h1 align="center">Hi 👋, I'm Waqas Gul</h1>
-<h3 align="center">A passionate MERN STACK Developer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waqas-gul&label=Profile%20views&color=0e75b6&style=flat" alt="waqas-gul" /> </p>
+# Hi, I'm Waqas Gul 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waqas-gul" alt="waqas-gul" /></a> </p>
+### Full-Stack MERN Developer | React Native Learner | Backend & API Enthusiast
 
-- 🔭 I’m currently working on **LMS**
+I build clean, scalable, and user-focused web applications using the MERN stack. My focus is on writing maintainable code, creating smooth user experiences, and turning real business requirements into working digital products.
 
-- 🌱 I’m currently learning **react native**
+[![Profile Views](https://komarev.com/ghpvc/?username=waqas-gul&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/waqas-gul)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=flat&logo=vercel&logoColor=white)](https://wgdeveloper.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqas-gul-b7580826b/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:waqasgul369@gmail.com)
 
-- 👯 I’m looking to collaborate on **MERN Stack projects**
+</div>
 
-- 🤝 I’m looking for help with **DevOps**
+---
 
-- 👨‍💻 All of my projects are available at [https://wgdeveloper.netlify.app/](https://wgdeveloper.netlify.app/)
+## About Me
 
-- 📝 I regularly Post on linkedIn [https://www.linkedin.com/in/waqas-gul-b7580826b/](https://www.linkedin.com/in/waqas-gul-b7580826b/)
+I am a passionate **MERN Stack Developer from Pakistan** with experience building full-stack web applications using **React.js, Node.js, Express.js, MongoDB, PostgreSQL, Firebase, and modern frontend tools**.
 
-- 💬 Ask me about **react Js, Node Js, Express Js, Mongodb, Postgreesql,Fairbas,**
+I enjoy working on practical products, clean UI flows, backend APIs, database structures, authentication systems, and scalable application architecture. I am also expanding my skills in **React Native** to build cross-platform mobile applications.
 
-- 📫 How to reach me **waqasgul369@gmail.com**
+---
 
-- 📄 Know about my experiences [https://wgdeveloper.netlify.app/](https://wgdeveloper.netlify.app/)
+## Current Focus
 
-- ⚡ Fun fact **🧠 Fun Fact: My code runs perfectly... until someone watches me run it. ⚡ Fun Fact: I use console.log() more than I use my phone. 😅 Fun Fact: Half of development is googling, the other half is Stack Overflow. 🔁 Fun Fact: I don't have bugs — I just develop unexpected features.**
+- Working on **LMS platforms and full-stack web applications**
+- Learning and building with **React Native**
+- Improving backend architecture, API design, and database performance
+- Exploring **DevOps workflows**, deployment, and production-ready application practices
+- Open to collaboration on **MERN stack and full-stack product development projects**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/waqas-gul-b7580826b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waqas-gul-b7580826b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/waqasi.369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/waqasi.369" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/w_a_q_a_s_i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/w_a_q_a_s_i/" height="30" width="40" /></a>
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,sass" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend & Database
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqas-gul&show_icons=true&locale=en&layout=compact" alt="waqas-gul" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,graphql" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqas-gul&show_icons=true&locale=en" alt="waqas-gul" /></p>
+### Mobile, Tools & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,android,kotlin,docker,aws,git,github,vercel" />
+</p>
+
+### Other Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,matlab" />
+</p>
+
+---
+
+## What I Can Help With
+
+- Full-stack MERN application development
+- React.js frontend development
+- Node.js and Express.js REST APIs
+- MongoDB and PostgreSQL database design
+- Firebase integration
+- Authentication and role-based access systems
+- LMS, dashboard, admin panel, and business web app development
+- Responsive UI development using Tailwind CSS and Bootstrap
+
+---
+
+## Featured Links
+
+- **Portfolio:** [wgdeveloper.netlify.app](https://wgdeveloper.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/waqas-gul-b7580826b](https://www.linkedin.com/in/waqas-gul-b7580826b/)
+- **Email:** [waqasgul369@gmail.com](mailto:waqasgul369@gmail.com)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=waqas-gul&show_icons=true&theme=tokyonight&hide_border=true" alt="Waqas Gul GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqas-gul&layout=compact&theme=tokyonight&hide_border=true" alt="Waqas Gul Top Languages" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=waqas-gul&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Waqas Gul GitHub Trophies" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/waqas-gul-b7580826b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Waqas%20Gul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/waqasi.369" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Waqas%20Gul-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/w_a_q_a_s_i/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-w__a__q__a__s__i-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Clean code. Practical products. Continuous improvement.
+
+</div>
