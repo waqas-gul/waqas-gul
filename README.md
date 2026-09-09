@@ -6,13 +6,13 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:0E7490,100:06B6D4&text=Waqas%20Gul&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=Full-Stack%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop%20Application%20Developer&descAlignY=58&descSize=17&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:0E7490,100:06B6D4&text=Waqas%20Gul&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop%20Application%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
   alt="Waqas Gul"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%E2%80%A2+Web+%E2%80%A2+Mobile+%E2%80%A2+Desktop;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+Angular+%E2%80%A2+React+Native+%E2%80%A2+Electron;Node.js+%E2%80%A2+Express+%E2%80%A2+NestJS+%E2%80%A2+Flask+%E2%80%A2+FastAPI+%E2%80%A2+PHP;PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+Supabase+%E2%80%A2+Firebase+%E2%80%A2+Docker+%E2%80%A2+AWS;Pixel-perfect+UI+%E2%86%92+Scalable+APIs+%E2%86%92+Production+Deployment"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=850&lines=Building+applications+across+Web+%E2%80%A2+Mobile+%E2%80%A2+Desktop;React.js+%E2%80%A2+React+Native+%E2%80%A2+Electron+%E2%80%A2+Node.js;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deployment;Turning+ideas+into+practical+digital+products"
     alt="Developer Introduction"
   />
 </a>
@@ -54,36 +54,26 @@
   alt="Profile Views"
 />
 
-<img
-  src="https://img.shields.io/badge/Open%20to-Collaboration-06B6D4?style=flat-square"
-  alt="Open to Collaboration"
-/>
-
-<img
-  src="https://img.shields.io/badge/Based%20in-Pakistan-0891B2?style=flat-square"
-  alt="Based in Pakistan"
-/>
-
 </div>
 
 ---
 
 ## About Me
 
-I'm **Waqas Gul**, a software developer from Pakistan building complete applications across **web, mobile, and desktop platforms**.
+I'm **Waqas Gul**, a software developer from Pakistan focused on building complete applications across **web, mobile, and desktop platforms**.
 
-I work across the full application stack — from **pixel-perfect, responsive user interfaces** and application logic to **backend APIs, databases, authentication, third-party integrations, payments, containerization, and deployment**.
+I work across the application stack — from responsive user interfaces and application logic to **backend APIs, databases, authentication, integrations, and deployment**.
 
-My day-to-day stack spans **React.js, Next.js, Vue.js, Angular, React Native, Electron, Node.js, Express.js, NestJS, Python (Flask / FastAPI), PHP, PostgreSQL, MongoDB, Supabase, and Firebase** — deployed on **AWS, Render, Vercel, Netlify, and Hostinger VPS** with **Docker** and **Terraform**.
+My core development stack includes **React.js, React Native, Electron, Node.js, Express.js, PostgreSQL, MongoDB, MySQL, and Firebase**.
 
-> **My focus is building practical, maintainable, and user-friendly software — from idea to production deployment.**
+> **My focus is building practical, maintainable, and user-friendly software from idea to deployment.**
 
 <br>
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,nodejs,nestjs,python,postgres,mongodb,docker,aws&perline=12"
+  src="https://skillicons.dev/icons?i=react,nodejs,electron,postgres,mongodb,firebase,docker,aws"
   alt="Primary Technologies"
 />
 
@@ -97,7 +87,7 @@ My day-to-day stack spans **React.js, Next.js, Vue.js, Angular, React Native, El
 
 <tr>
 
-<td width="25%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <img
   src="https://skillicons.dev/icons?i=react"
@@ -107,18 +97,17 @@ My day-to-day stack spans **React.js, Next.js, Vue.js, Angular, React Native, El
 
 <h3>Web Applications</h3>
 
-Modern web apps, SaaS dashboards, admin panels, LMS platforms, business portals, and full-stack systems.
+Modern web applications, dashboards, admin panels, LMS platforms, business portals, and full-stack systems.
 
 <br><br>
 
-<code>React</code>
-<code>Next.js</code>
-<code>Vue</code>
-<code>Angular</code>
+<code>React.js</code>
+<code>Vue.js</code>
+<code>Node.js</code>
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <img
   src="https://skillicons.dev/icons?i=androidstudio"
@@ -128,17 +117,17 @@ Modern web apps, SaaS dashboards, admin panels, LMS platforms, business portals,
 
 <h3>Mobile Applications</h3>
 
-Cross-platform and native mobile applications with API integration, authentication, state management, and real workflows.
+Cross-platform mobile applications with API integration, authentication, state management, and real-world workflows.
 
 <br><br>
 
 <code>React Native</code>
-<code>Android</code>
-<code>Kotlin</code>
+<code>TypeScript</code>
+<code>Firebase</code>
 
 </td>
 
-<td width="25%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <img
   src="https://skillicons.dev/icons?i=electron"
@@ -148,34 +137,13 @@ Cross-platform and native mobile applications with API integration, authenticati
 
 <h3>Desktop Applications</h3>
 
-Electron-based desktop software, internal systems, dashboards, utilities, and productivity tools.
+Electron-based desktop applications, internal systems, dashboards, utilities, and productivity-focused software.
 
 <br><br>
 
 <code>Electron</code>
-<code>React</code>
+<code>React.js</code>
 <code>Node.js</code>
-
-</td>
-
-<td width="25%" valign="top" align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=nodejs"
-  height="48"
-  alt="Backend and APIs"
-/>
-
-<h3>Backend & APIs</h3>
-
-REST and GraphQL APIs, authentication, payments, integrations, background jobs, and database design.
-
-<br><br>
-
-<code>Express</code>
-<code>NestJS</code>
-<code>FastAPI</code>
-<code>Flask</code>
 
 </td>
 
@@ -194,59 +162,47 @@ flowchart LR
 
     A["Client Applications"]
 
-    B1["Web<br/>React · Next.js<br/>Vue · Angular"]
-    B2["Mobile<br/>React Native<br/>Android · Kotlin"]
+    B1["Web<br/>React / Vue"]
+    B2["Mobile<br/>React Native"]
     B3["Desktop<br/>Electron"]
 
-    S["State & Data Layer<br/>Redux Toolkit · Zustand<br/>React Query · Context API"]
-
-    C["API Layer<br/>Node.js · Express · NestJS<br/>FastAPI · Flask · PHP"]
+    C["API Layer<br/>Node.js / Express"]
 
     D1["REST APIs"]
     D2["GraphQL"]
-    D3["Auth · JWT · OAuth"]
-    D4["Stripe Payments"]
 
     E["Data & Services"]
 
     F1["PostgreSQL"]
     F2["MongoDB"]
     F3["MySQL"]
-    F4["Supabase"]
-    F5["Firebase"]
+    F4["Firebase"]
 
-    G["Delivery & Infrastructure"]
+    G["Delivery"]
 
     H1["Docker"]
-    H2["Terraform"]
-    H3["AWS"]
-    H4["Render · Vercel<br/>Netlify · Hostinger VPS"]
+    H2["AWS"]
+    H3["Vercel"]
+    H4["Netlify / Render"]
 
     A --> B1
     A --> B2
     A --> B3
 
-    B1 --> S
-    B2 --> S
-    B3 --> S
-
-    S --> C
+    B1 --> C
+    B2 --> C
+    B3 --> C
 
     C --> D1
     C --> D2
-    C --> D3
-    C --> D4
 
     D1 --> E
     D2 --> E
-    D3 --> E
-    D4 --> E
 
     E --> F1
     E --> F2
     E --> F3
     E --> F4
-    E --> F5
 
     E --> G
 
@@ -260,75 +216,26 @@ flowchart LR
 
 ## Technology Stack
 
-### Languages
-
-<div align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=js,ts,python,php,java,kotlin,cpp,c,html,css&perline=10"
-  alt="Programming Languages"
-/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-
-</div>
-
-<br>
-
 ### Frontend Development
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,ts,tailwind,bootstrap,sass,vite&perline=10"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,tailwind,bootstrap,sass"
   alt="Frontend Technologies"
 />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/Pixel%20Perfect%20UI-0891B2?style=flat-square&logo=figma&logoColor=white" alt="Pixel Perfect UI" />
-<img src="https://img.shields.io/badge/Responsive%20Design-111827?style=flat-square&logo=css&logoColor=1572B6" alt="Responsive Design" />
-
-</div>
-
-<br>
-
-### State Management & Data Fetching
-
-<div align="center">
-
 <img
-  src="https://skillicons.dev/icons?i=redux"
-  alt="State Management"
+  src="https://img.shields.io/badge/Zustand-18181B?style=flat-square&logo=react&logoColor=white"
+  alt="Zustand"
 />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-<img src="https://img.shields.io/badge/Redux%20Toolkit%20(RTK)-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-<img src="https://img.shields.io/badge/RTK%20Query-593D88?style=flat-square&logo=redux&logoColor=white" alt="RTK Query" />
-<img src="https://img.shields.io/badge/Zustand-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="Zustand" />
-<img src="https://img.shields.io/badge/TanStack%20React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
-<img src="https://img.shields.io/badge/Context%20API-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Context API" />
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
-<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+<img
+  src="https://img.shields.io/badge/Context%20API-20232A?style=flat-square&logo=react&logoColor=61DAFB"
+  alt="Context API"
+/>
 
 </div>
 
@@ -339,46 +246,41 @@ flowchart LR
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=react,electron,androidstudio,kotlin,java,gradle&perline=10"
+  src="https://skillicons.dev/icons?i=react,electron,androidstudio,kotlin"
   alt="Mobile and Desktop Technologies"
 />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-<img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=9FEAF9" alt="Electron" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img
+  src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"
+  alt="React Native"
+/>
+
+<img
+  src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=9FEAF9"
+  alt="Electron"
+/>
 
 </div>
 
 <br>
 
-### Backend Development & APIs
+### Backend Development
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,fastapi,php,laravel,graphql,prisma&perline=10"
+  src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,php"
   alt="Backend Technologies"
 />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+<img
+  src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=postman&logoColor=white"
+  alt="REST API"
+/>
 
 </div>
 
@@ -389,90 +291,29 @@ flowchart LR
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,redis,sqlite&perline=10"
+  src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase"
   alt="Database Technologies"
 />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000" alt="Firebase" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
-<img src="https://img.shields.io/badge/pgAdmin-326690?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin" />
-<img src="https://img.shields.io/badge/MongoDB%20Compass-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Compass" />
-
 </div>
 
 <br>
 
-### Cloud, Hosting & DevOps
+### Development Tools & Deployment
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=aws,docker,terraform,nginx,linux,vercel,netlify,cloudflare,githubactions&perline=10"
-  alt="Cloud and DevOps Technologies"
+  src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,postman"
+  alt="Development and Deployment Tools"
 />
 
 <br><br>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render" />
-<img src="https://img.shields.io/badge/Hostinger%20VPS-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger VPS" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="Linux VPS" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-
-</div>
-
-<br>
-
-### Payments & Third-Party Integrations
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/Stripe%20Checkout-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe Checkout" />
-<img src="https://img.shields.io/badge/Subscriptions%20%26%20Webhooks-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe Subscriptions and Webhooks" />
-<img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square" alt="Twilio" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps API" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square" alt="OpenAI API" />
-
-</div>
-
-<br>
-
-### Tools, Design & Collaboration
-
-<div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,npm,yarn,jest,notion&perline=10"
-  alt="Development Tools"
+  src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000000"
+  alt="Render"
 />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square" alt="Slack" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code" />
-<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0891B2?style=flat-square&logo=trello&logoColor=white" alt="Agile Scrum" />
 
 </div>
 
@@ -488,16 +329,16 @@ flowchart LR
 
 ### Frontend Engineering
 
-- Pixel-perfect Figma to code implementation
-- Responsive and mobile-first interfaces
-- Component-based architecture and design systems
-- React.js and Next.js (SSR, SSG, App Router)
-- Vue.js and Angular application development
-- JavaScript (ES6+) and TypeScript
-- Redux Toolkit, RTK Query, Zustand, Context API
-- TanStack React Query and data caching
-- Tailwind CSS, Material UI, Bootstrap, Sass
-- Performance optimization and accessibility
+- Responsive application interfaces
+- Component-based architecture
+- React.js development
+- Vue.js development
+- JavaScript and TypeScript
+- State management
+- API integration
+- Tailwind CSS
+- Bootstrap
+- Sass
 
 </td>
 
@@ -505,16 +346,14 @@ flowchart LR
 
 ### Application Development
 
-- Full-stack web applications and SaaS platforms
-- React Native and Expo mobile applications
-- Android application development (Java / Kotlin)
+- Full-stack web applications
+- React Native mobile applications
 - Electron desktop applications
-- Authentication and role-based access control
-- Multi-tenant and admin dashboard systems
-- Real-time features with Socket.IO
-- Stripe payments, subscriptions, and webhooks
-- Third-party API and service integration
-- Business and internal tooling development
+- Authentication workflows
+- Role-based access systems
+- Application state management
+- API-driven workflows
+- Business application development
 
 </td>
 
@@ -526,33 +365,31 @@ flowchart LR
 
 ### Backend & Data
 
-- Node.js, Express.js, and NestJS services
-- Python backends with Flask and FastAPI
-- PHP and Laravel application work
-- REST API design and GraphQL integration
-- PostgreSQL, MySQL, and SQL query optimization
-- MongoDB and Mongoose data modelling
-- Supabase and Firebase backend services
-- Prisma ORM and database migrations
-- Redis caching and background jobs
-- DBeaver, pgAdmin, and Compass for DB management
+- Node.js and Express.js
+- REST API development
+- GraphQL integration
+- MongoDB
+- PostgreSQL
+- MySQL
+- Firebase
+- Authentication integration
+- Database integration
 
 </td>
 
 <td width="50%" valign="top">
 
-### DevOps & Delivery
+### Development & Delivery
 
-- Git, GitHub, and GitLab workflows
-- Docker containerization and Compose setups
-- Terraform infrastructure as code
-- AWS services (EC2, S3, RDS, Lambda)
-- Hostinger VPS and Linux server administration
-- Nginx reverse proxy, SSL, and domain setup
-- Render, Vercel, and Netlify deployments
-- CI/CD pipelines with GitHub Actions
-- Postman API testing and documentation
-- ClickUp, Jira, and Agile team collaboration
+- Git and GitHub
+- Docker
+- Postman
+- AWS
+- Vercel
+- Netlify
+- Render
+- Firebase
+- Application deployment
 
 </td>
 
@@ -569,22 +406,18 @@ flowchart LR
 
     IDEA["Product Idea"]
     PLAN["Requirements<br/>User Flow"]
-    DESIGN["UI / UX<br/>Figma"]
     APP["Application<br/>Development"]
     API["Backend<br/>APIs"]
     DATA["Database<br/>& Services"]
-    TEST["Testing<br/>& Review"]
-    SHIP["Docker<br/>& CI/CD"]
-    DEPLOY["Deployment<br/>& Monitoring"]
+    TEST["Testing"]
+    DEPLOY["Deployment"]
 
     IDEA --> PLAN
-    PLAN --> DESIGN
-    DESIGN --> APP
+    PLAN --> APP
     APP --> API
     API --> DATA
     DATA --> TEST
-    TEST --> SHIP
-    SHIP --> DEPLOY
+    TEST --> DEPLOY
 ```
 
 ---
@@ -608,25 +441,37 @@ flowchart LR
   alt="Desktop Applications"
 />
 
-<img
-  src="https://img.shields.io/badge/Cloud%20%26%20DevOps-232F3E?style=for-the-badge"
-  alt="Cloud and DevOps"
-/>
-
 <br><br>
 
-<img src="https://img.shields.io/badge/SaaS%20Platforms-111827?style=flat-square" alt="SaaS Platforms" />
-<img src="https://img.shields.io/badge/Admin%20Dashboards-111827?style=flat-square" alt="Admin Dashboards" />
-<img src="https://img.shields.io/badge/Business%20Platforms-111827?style=flat-square" alt="Business Platforms" />
-<img src="https://img.shields.io/badge/LMS%20Platforms-111827?style=flat-square" alt="LMS Platforms" />
-<img src="https://img.shields.io/badge/E--Commerce-111827?style=flat-square" alt="E-Commerce" />
-<img src="https://img.shields.io/badge/REST%20%26%20GraphQL%20APIs-111827?style=flat-square" alt="REST and GraphQL APIs" />
-<img src="https://img.shields.io/badge/Authentication%20%26%20RBAC-111827?style=flat-square" alt="Authentication and RBAC" />
-<img src="https://img.shields.io/badge/Payment%20Integration-111827?style=flat-square" alt="Payment Integration" />
-<img src="https://img.shields.io/badge/Real--Time%20Apps-111827?style=flat-square" alt="Real Time Apps" />
-<img src="https://img.shields.io/badge/Database%20Design-111827?style=flat-square" alt="Database Design" />
-<img src="https://img.shields.io/badge/API%20Integration-111827?style=flat-square" alt="API Integration" />
-<img src="https://img.shields.io/badge/Deployment%20%26%20Hosting-111827?style=flat-square" alt="Deployment and Hosting" />
+<img
+  src="https://img.shields.io/badge/Admin%20Dashboards-111827?style=flat-square"
+  alt="Admin Dashboards"
+/>
+
+<img
+  src="https://img.shields.io/badge/Business%20Platforms-111827?style=flat-square"
+  alt="Business Platforms"
+/>
+
+<img
+  src="https://img.shields.io/badge/LMS%20Platforms-111827?style=flat-square"
+  alt="LMS Platforms"
+/>
+
+<img
+  src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square"
+  alt="REST APIs"
+/>
+
+<img
+  src="https://img.shields.io/badge/Authentication-111827?style=flat-square"
+  alt="Authentication"
+/>
+
+<img
+  src="https://img.shields.io/badge/Database%20Integration-111827?style=flat-square"
+  alt="Database Integration"
+/>
 
 </div>
 
@@ -641,36 +486,36 @@ flowchart LR
 <td width="50%" valign="top">
 
 <img
-  src="https://skillicons.dev/icons?i=react,nextjs,nodejs"
+  src="https://skillicons.dev/icons?i=react,nodejs"
   height="35"
   alt="Full Stack Web"
 />
 
 ### Full-Stack Web Applications
 
-Modern web platforms combining pixel-perfect responsive interfaces, backend APIs, authentication, payments, and database-driven workflows.
+Modern web applications combining responsive interfaces, backend APIs, authentication, and database-driven workflows.
 
 **Core Technologies**
 
-`React.js` `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `MongoDB` `Stripe`
+`React.js` `Node.js` `Express.js` `PostgreSQL` `MongoDB`
 
 </td>
 
 <td width="50%" valign="top">
 
 <img
-  src="https://skillicons.dev/icons?i=react,firebase,androidstudio"
+  src="https://skillicons.dev/icons?i=react,firebase"
   height="35"
-  alt="Mobile Applications"
+  alt="React Native"
 />
 
-### Mobile Applications
+### React Native Applications
 
-Cross-platform mobile apps built around real workflows, backend communication, offline handling, state management, and reusable UI architecture.
+Cross-platform mobile applications built around real workflows, backend communication, state management, and reusable UI architecture.
 
 **Core Technologies**
 
-`React Native` `Expo` `TypeScript` `REST APIs` `Firebase` `Kotlin` `Android`
+`React Native` `TypeScript` `REST APIs` `Firebase`
 
 </td>
 
@@ -688,69 +533,29 @@ Cross-platform mobile apps built around real workflows, backend communication, o
 
 ### Electron Desktop Applications
 
-Desktop software combining modern web technologies with desktop-specific workflows — offline storage, native menus, auto-update, and packaging.
+Desktop software combining modern web technologies with desktop-specific application workflows.
 
 **Core Technologies**
 
-`Electron` `React.js` `Node.js` `SQLite` `TypeScript`
+`Electron` `React.js` `Node.js` `JavaScript`
 
 </td>
 
 <td width="50%" valign="top">
 
 <img
-  src="https://skillicons.dev/icons?i=nestjs,fastapi,postgres"
+  src="https://skillicons.dev/icons?i=nodejs,express,postgres"
   height="35"
   alt="Backend Systems"
 />
 
-### Backend & API Systems
+### Backend Systems
 
-API-driven systems with structured application logic, authentication, payments, and relational or document-oriented databases.
-
-**Core Technologies**
-
-`NestJS` `Express.js` `FastAPI` `Flask` `GraphQL` `PostgreSQL` `MongoDB` `Prisma`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<img
-  src="https://skillicons.dev/icons?i=docker,terraform,aws"
-  height="35"
-  alt="Cloud and DevOps"
-/>
-
-### Cloud & Deployment
-
-Containerized applications deployed to cloud and VPS environments with reverse proxies, SSL, environment management, and CI/CD pipelines.
+API-driven systems with structured application logic, authentication, and relational or document-oriented databases.
 
 **Core Technologies**
 
-`Docker` `Terraform` `AWS` `Nginx` `Hostinger VPS` `Render` `GitHub Actions`
-
-</td>
-
-<td width="50%" valign="top">
-
-<img
-  src="https://skillicons.dev/icons?i=figma,tailwind,react"
-  height="35"
-  alt="UI Implementation"
-/>
-
-### Pixel-Perfect UI Implementation
-
-Design-to-code work that turns Figma files into accurate, responsive, and accessible production interfaces.
-
-**Core Technologies**
-
-`Figma` `Tailwind CSS` `Material UI` `Sass` `Framer Motion`
+`Node.js` `Express.js` `REST` `PostgreSQL` `MongoDB`
 
 </td>
 
@@ -784,14 +589,6 @@ Design-to-code work that turns Figma files into accurate, responsive, and access
   alt="GitHub Contribution Streak"
 />
 
-<br><br>
-
-<img
-  width="90%"
-  src="https://github-profile-trophy.vercel.app/?username=waqas-gul&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
-  alt="GitHub Trophies"
-/>
-
 </div>
 
 ---
@@ -805,28 +602,6 @@ Design-to-code work that turns Figma files into accurate, responsive, and access
 <td width="8%" align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=nextjs"
-  width="30"
-  alt="Next.js"
-/>
-
-</td>
-
-<td width="25%">
-<b>Next.js & React</b>
-</td>
-
-<td>
-Server-side rendering, App Router patterns, and scalable frontend architecture.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img
   src="https://skillicons.dev/icons?i=react"
   width="30"
   alt="React Native"
@@ -834,122 +609,12 @@ Server-side rendering, App Router patterns, and scalable frontend architecture.
 
 </td>
 
-<td>
+<td width="25%">
 <b>React Native</b>
 </td>
 
 <td>
-Advanced cross-platform mobile development and native module integration.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=nestjs"
-  width="30"
-  alt="NestJS"
-/>
-
-</td>
-
-<td>
-<b>NestJS & FastAPI</b>
-</td>
-
-<td>
-Production-ready, well-structured APIs across the Node.js and Python ecosystems.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=docker"
-  width="30"
-  alt="Docker"
-/>
-
-</td>
-
-<td>
-<b>Docker & Terraform</b>
-</td>
-
-<td>
-Container-based workflows and infrastructure as code for repeatable deployments.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=aws"
-  width="30"
-  alt="AWS"
-/>
-
-</td>
-
-<td>
-<b>AWS & VPS</b>
-</td>
-
-<td>
-Cloud services, Linux server administration, Nginx, and SSL configuration.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=postgres"
-  width="30"
-  alt="Databases"
-/>
-
-</td>
-
-<td>
-<b>Databases</b>
-</td>
-
-<td>
-PostgreSQL and Supabase modelling, indexing, and query performance.
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=figma"
-  width="30"
-  alt="UI UX"
-/>
-
-</td>
-
-<td>
-<b>Pixel-Perfect UI</b>
-</td>
-
-<td>
-Accurate design-to-code implementation with strong responsive behaviour.
+Advanced cross-platform mobile application development.
 </td>
 
 </tr>
@@ -971,7 +636,95 @@ Accurate design-to-code implementation with strong responsive behaviour.
 </td>
 
 <td>
-Cleaner, more scalable desktop application architecture and packaging.
+Cleaner and more scalable desktop application architecture.
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs"
+  width="30"
+  alt="Backend Engineering"
+/>
+
+</td>
+
+<td>
+<b>Backend Engineering</b>
+</td>
+
+<td>
+Production-ready APIs and backend application structure.
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=docker"
+  width="30"
+  alt="Docker"
+/>
+
+</td>
+
+<td>
+<b>Docker & DevOps</b>
+</td>
+
+<td>
+Container-based development and deployment workflows.
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=figma"
+  width="30"
+  alt="UI UX"
+/>
+
+</td>
+
+<td>
+<b>UI / UX Implementation</b>
+</td>
+
+<td>
+Cleaner, responsive, and easier-to-use application interfaces.
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=github"
+  width="30"
+  alt="Application Architecture"
+/>
+
+</td>
+
+<td>
+<b>Application Architecture</b>
+</td>
+
+<td>
+Maintainable and scalable full-stack project structures.
 </td>
 
 </tr>
@@ -985,28 +738,18 @@ Cleaner, more scalable desktop application architecture and packaging.
 <table>
 
 <tr>
-<td width="22%"><b>Role</b></td>
-<td>Full-Stack Web, Mobile & Desktop Application Developer</td>
-</tr>
-
-<tr>
-<td><b>Languages</b></td>
-<td>JavaScript • TypeScript • Python • PHP • Java • Kotlin • C++ • SQL</td>
+<td width="25%"><b>Role</b></td>
+<td>Web, Mobile & Desktop Application Developer</td>
 </tr>
 
 <tr>
 <td><b>Web</b></td>
-<td>React.js • Next.js • Vue.js • Angular • Tailwind CSS • Material UI • Bootstrap • Sass</td>
-</tr>
-
-<tr>
-<td><b>State</b></td>
-<td>Redux • Redux Toolkit (RTK) • RTK Query • Zustand • React Query • Context API</td>
+<td>React.js • Vue.js</td>
 </tr>
 
 <tr>
 <td><b>Mobile</b></td>
-<td>React Native • Expo • Android • Kotlin • Java</td>
+<td>React Native</td>
 </tr>
 
 <tr>
@@ -1016,37 +759,27 @@ Cleaner, more scalable desktop application architecture and packaging.
 
 <tr>
 <td><b>Backend</b></td>
-<td>Node.js • Express.js • NestJS • Flask • FastAPI • PHP • Laravel • REST APIs • GraphQL</td>
+<td>Node.js • Express.js • REST APIs • GraphQL</td>
 </tr>
 
 <tr>
 <td><b>Data</b></td>
-<td>PostgreSQL • MySQL • MongoDB • Supabase • Firebase • Redis • Prisma • DBeaver</td>
-</tr>
-
-<tr>
-<td><b>Cloud & Hosting</b></td>
-<td>AWS • Render • Vercel • Netlify • Hostinger VPS • Nginx • Cloudflare</td>
-</tr>
-
-<tr>
-<td><b>DevOps</b></td>
-<td>Docker • Terraform • GitHub Actions • CI/CD • Linux</td>
-</tr>
-
-<tr>
-<td><b>Payments</b></td>
-<td>Stripe (Checkout, Subscriptions, Webhooks) • PayPal</td>
+<td>PostgreSQL • MongoDB • MySQL • Firebase</td>
 </tr>
 
 <tr>
 <td><b>Tools</b></td>
-<td>Git • GitHub • GitLab • Postman • Figma • VS Code • ClickUp • Jira • Slack</td>
+<td>Git • GitHub • Docker • Postman</td>
+</tr>
+
+<tr>
+<td><b>Cloud</b></td>
+<td>AWS • Vercel • Netlify • Render</td>
 </tr>
 
 <tr>
 <td><b>Focus</b></td>
-<td>Building practical products from idea to production deployment</td>
+<td>Building practical products from idea to deployment</td>
 </tr>
 
 </table>
