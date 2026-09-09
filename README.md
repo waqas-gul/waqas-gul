@@ -1,259 +1,687 @@
+<!-- ========================================================= -->
+<!--                 WAQAS GUL — GITHUB PROFILE                 -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="./assets/header.svg" alt="Waqas Gul — Web, Mobile and Desktop Application Developer" width="100%" />
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:0E7490,100:06B6D4&text=Waqas%20Gul&fontColor=FFFFFF&fontSize=50&fontAlignY=37&desc=Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Desktop%20Application%20Developer&descAlignY=58&descSize=18&animation=fadeIn"
+  alt="Waqas Gul"
+/>
 
-<br />
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=850&lines=Building+applications+across+Web+%E2%80%A2+Mobile+%E2%80%A2+Desktop;React.js+%E2%80%A2+React+Native+%E2%80%A2+Electron+%E2%80%A2+Node.js;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deployment;Turning+ideas+into+practical+digital+products"
+    alt="Developer Introduction"
+  />
+</a>
 
-<a href="https://wgdeveloper.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-wgdeveloper-0B1017?style=for-the-badge&logo=googlechrome&logoColor=4CC2FF&labelColor=0B1017" alt="Portfolio" />
+<br><br>
+
+<a href="https://wgdeveloper.netlify.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
-<a href="https://www.linkedin.com/in/waqas-gul-b7580826b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1017?style=for-the-badge&logo=linkedin&logoColor=4CC2FF&labelColor=0B1017" alt="LinkedIn" />
+
+<a href="https://www.linkedin.com/in/waqas-gul-b7580826b/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
+
 <a href="mailto:waqasgul369@gmail.com">
-  <img src="https://img.shields.io/badge/Email-waqasgul369-0B1017?style=for-the-badge&logo=gmail&logoColor=4CC2FF&labelColor=0B1017" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
-<br />
+<a href="https://github.com/waqas-gul">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=waqas-gul&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=waqas-gul&label=Profile%20Views&color=0891b2&style=flat-square"
+  alt="Profile Views"
+/>
 
 </div>
 
----
-
-## About
-
-Software developer from Pakistan building complete products across web, mobile and desktop.
-
-My work covers the whole path from interface to database: React and Vue frontends, React Native mobile apps, Electron desktop applications, Node/Express APIs, and the SQL or NoSQL layer underneath them. I care about software that is clean to read, quick to use and straightforward to maintain.
+<br>
 
 ---
 
-## What I build
+## About Me
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🌐 Web applications</h3>
-      <p align="center">
-        Dashboards, admin panels, LMS platforms, business portals and full-stack web products, built with React or Vue on top of REST and GraphQL APIs.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">📱 Mobile applications</h3>
-      <p align="center">
-        Cross-platform React Native apps with API-driven screens, authentication, role-based access and real-world product workflows.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🖥️ Desktop applications</h3>
-      <p align="center">
-        Electron applications for internal tools, dashboards and productivity software that need to run outside the browser.
-      </p>
-    </td>
-  </tr>
-</table>
+I'm **Waqas Gul**, a software developer from Pakistan focused on building complete applications across **web, mobile, and desktop platforms**.
 
----
+I work across the application stack — from responsive user interfaces and application logic to **backend APIs, databases, authentication, integrations, and deployment**.
 
-## How I build products
+My core development stack includes **React.js, React Native, Electron, Node.js, Express.js, PostgreSQL, MongoDB, MySQL, and Firebase**.
 
-<div align="center">
-  <img src="./assets/architecture.svg" alt="Architecture: client layer (React, Vue, React Native, Electron) to API layer (Node.js, Express, REST, GraphQL) to data layer (PostgreSQL, MongoDB, MySQL, Firebase) to delivery and infrastructure (Docker, AWS, Vercel, Netlify, Render)" width="100%" />
-</div>
+> **My focus is building practical, maintainable, and user-friendly software from idea to deployment.**
 
----
-
-## Tech stack
-
-<table>
-  <tr>
-    <td width="22%"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,sass,tailwind,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Vue, Sass, Tailwind CSS, Bootstrap" /></td>
-  </tr>
-  <tr>
-    <td><b>Mobile &amp; desktop</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=electron,android,kotlin&theme=dark" alt="Electron, Android, Kotlin" /><br />
-      <img src="https://img.shields.io/badge/React%20Native-16212D?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,php&theme=dark" alt="Node.js, Express, GraphQL, Python, PHP" /><br />
-      <img src="https://img.shields.io/badge/REST%20APIs-16212D?style=flat-square&logo=fastapi&logoColor=4CC2FF" alt="REST APIs" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" alt="MongoDB, PostgreSQL, MySQL, Firebase" /></td>
-  </tr>
-  <tr>
-    <td><b>State management</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" /><br />
-      <img src="https://img.shields.io/badge/Zustand-16212D?style=flat-square&logo=react&logoColor=4CC2FF" alt="Zustand" />
-      <img src="https://img.shields.io/badge/Context%20API-16212D?style=flat-square&logo=react&logoColor=61DAFB" alt="Context API" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud &amp; tooling</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,postman&theme=dark" alt="Git, GitHub, Docker, AWS, Vercel, Netlify, Postman" /><br />
-      <img src="https://img.shields.io/badge/Render-16212D?style=flat-square&logo=render&logoColor=46E3B7" alt="Render" />
-    </td>
-  </tr>
-</table>
-
----
-
-## Core capabilities
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Frontend engineering</b>
-      <ul>
-        <li>Responsive interfaces with Tailwind CSS and Bootstrap</li>
-        <li>Component-driven UI in React and Vue</li>
-        <li>State management with Redux, Zustand and Context API</li>
-        <li>API integration and data-driven views</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <b>Application development</b>
-      <ul>
-        <li>Full-stack MERN web applications</li>
-        <li>Cross-platform mobile apps with React Native</li>
-        <li>Desktop applications with Electron</li>
-        <li>Admin dashboards, CMS panels and LMS platforms</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>Backend &amp; data</b>
-      <ul>
-        <li>REST and GraphQL API development</li>
-        <li>Node.js and Express services</li>
-        <li>MongoDB, PostgreSQL, MySQL and Firebase integration</li>
-        <li>Authentication and role-based access control</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <b>Delivery</b>
-      <ul>
-        <li>Version control with Git and GitHub</li>
-        <li>Docker-based builds and deployment</li>
-        <li>Hosting on Vercel, Netlify, Render and Firebase</li>
-        <li>API testing and documentation with Postman</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## Featured projects
-
-<!--
-  TODO — replace the rows below with your own repositories.
-  Nothing here is filled in automatically: no repository data was available when this
-  README was written, and inventing project names or descriptions would be worse than
-  leaving placeholders.
-
-  For each project keep it to one line of description, 2–4 technologies, and only add a
-  live link if a deployment actually exists. Delete any row you do not use.
--->
-
-<table>
-  <tr>
-    <th align="left" width="25%">Project</th>
-    <th align="left" width="45%">What it does</th>
-    <th align="left" width="20%">Stack</th>
-    <th align="left" width="10%">Links</th>
-  </tr>
-  <tr>
-    <td><b>Project name</b></td>
-    <td>One line on the problem it solves.</td>
-    <td>React · Node · MongoDB</td>
-    <td><a href="https://github.com/waqas-gul">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>Project name</b></td>
-    <td>One line on the problem it solves.</td>
-    <td>React Native · Express</td>
-    <td><a href="https://github.com/waqas-gul">Code</a></td>
-  </tr>
-  <tr>
-    <td><b>Project name</b></td>
-    <td>One line on the problem it solves.</td>
-    <td>Electron · SQLite</td>
-    <td><a href="https://github.com/waqas-gul">Code</a></td>
-  </tr>
-</table>
-
----
-
-## GitHub activity
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=waqas-gul&show_icons=true&hide_border=true&title_color=4CC2FF&icon_color=4CC2FF&text_color=8B9AAC&bg_color=0B1017" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqas-gul&layout=compact&hide_border=true&langs_count=8&title_color=4CC2FF&text_color=8B9AAC&bg_color=0B1017" alt="Most used languages" height="165" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,electron,postgres,mongodb,firebase,docker,aws" alt="Primary Technologies" />
 
 </div>
 
 ---
 
-## Developer snapshot
+## What I Build
 
-```js
+<table>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="48" alt="Web Development" />
+
+### Web Applications
+
+Modern web applications, dashboards, admin panels, LMS platforms, business portals, and full-stack systems.
+
+`React.js` `Vue.js` `Node.js`
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Mobile Development" />
+
+### Mobile Applications
+
+Cross-platform mobile applications with API integration, authentication, state management, and production workflows.
+
+`React Native` `TypeScript` `Firebase`
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://skillicons.dev/icons?i=electron" height="48" alt="Desktop Development" />
+
+### Desktop Applications
+
+Electron-based desktop applications, internal systems, dashboards, utilities, and productivity-focused software.
+
+`Electron` `React.js` `Node.js`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Application Architecture
+
+A simplified view of how I structure complete applications:
+
+```mermaid
+flowchart LR
+
+    A["Client Applications"]
+
+    B1["Web<br/>React / Vue"]
+    B2["Mobile<br/>React Native"]
+    B3["Desktop<br/>Electron"]
+
+    C["API Layer<br/>Node.js / Express"]
+
+    D1["REST"]
+    D2["GraphQL"]
+
+    E["Data Layer"]
+
+    F1["PostgreSQL"]
+    F2["MongoDB"]
+    F3["MySQL"]
+    F4["Firebase"]
+
+    G["Delivery"]
+
+    H1["Docker"]
+    H2["AWS"]
+    H3["Vercel"]
+    H4["Netlify / Render"]
+
+    A --> B1
+    A --> B2
+    A --> B3
+
+    B1 --> C
+    B2 --> C
+    B3 --> C
+
+    C --> D1
+    C --> D2
+
+    D1 --> E
+    D2 --> E
+
+    E --> F1
+    E --> F2
+    E --> F3
+    E --> F4
+
+    E --> G
+
+    G --> H1
+    G --> H2
+    G --> H3
+    G --> H4
+```
+
+---
+
+## Technology Stack
+
+### Frontend Development
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,tailwind,bootstrap,sass"
+  alt="Frontend Technologies"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Zustand-18181B?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Context%20API-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
+</div>
+
+<br>
+
+### Mobile & Desktop Development
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=react,electron,androidstudio,kotlin"
+  alt="Mobile and Desktop Technologies"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"
+  alt="React Native"
+/>
+
+<img
+  src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=9FEAF9"
+  alt="Electron"
+/>
+
+</div>
+
+<br>
+
+### Backend Development
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,php"
+  alt="Backend Technologies"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=postman&logoColor=white"
+  alt="REST API"
+/>
+
+</div>
+
+<br>
+
+### Databases & Backend Services
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase"
+  alt="Database Technologies"
+/>
+
+</div>
+
+<br>
+
+### Development Tools & Deployment
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,postman"
+  alt="Development and Deployment Tools"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=000000"
+  alt="Render"
+/>
+
+</div>
+
+---
+
+## Core Capabilities
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Frontend Engineering
+
+- Responsive application interfaces
+- Component-based architecture
+- React.js development
+- Vue.js development
+- JavaScript and TypeScript
+- Application state management
+- API integration
+- Tailwind CSS
+- Bootstrap
+- Sass
+
+</td>
+
+<td width="50%" valign="top">
+
+### Application Development
+
+- Full-stack web applications
+- React Native applications
+- Electron desktop applications
+- Authentication workflows
+- Role-based access systems
+- Application state management
+- API-driven workflows
+- Business application development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Backend & Data
+
+- Node.js
+- Express.js
+- REST API development
+- GraphQL
+- MongoDB
+- PostgreSQL
+- MySQL
+- Firebase
+- Authentication integration
+- Database integration
+
+</td>
+
+<td width="50%" valign="top">
+
+### Development & Delivery
+
+- Git
+- GitHub
+- Docker
+- Postman
+- AWS
+- Vercel
+- Netlify
+- Render
+- Firebase
+- Application deployment
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Development Workflow
+
+```mermaid
+flowchart LR
+
+    IDEA["Product Idea"]
+
+    PLAN["Requirements<br/>User Flow"]
+
+    UI["UI / Application<br/>Development"]
+
+    API["Backend<br/>APIs"]
+
+    DATA["Database<br/>& Services"]
+
+    TEST["Testing"]
+
+    DEPLOY["Deployment"]
+
+    IDEA --> PLAN
+    PLAN --> UI
+    UI --> API
+    API --> DATA
+    DATA --> TEST
+    TEST --> DEPLOY
+```
+
+---
+
+## Areas I Work On
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/Web%20Applications-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+/>
+
+<img
+  src="https://img.shields.io/badge/Mobile%20Applications-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+/>
+
+<img
+  src="https://img.shields.io/badge/Desktop%20Applications-191970?style=for-the-badge&logo=electron&logoColor=9FEAF9"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Admin%20Dashboards-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Business%20Platforms-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/LMS%20Platforms-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Authentication-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Database%20Integration-111827?style=flat-square" />
+
+</div>
+
+---
+
+## Featured Work
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs" height="35" alt="Web Application" />
+
+### Full-Stack Web Applications
+
+Modern web applications combining responsive interfaces, backend APIs, authentication, and database-driven workflows.
+
+**Core technologies**
+
+`React.js` `Node.js` `Express.js` `PostgreSQL` `MongoDB`
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=react,firebase" height="35" alt="Mobile Application" />
+
+### React Native Applications
+
+Cross-platform mobile applications built around real workflows, backend communication, state management, and reusable UI architecture.
+
+**Core technologies**
+
+`React Native` `TypeScript` `REST APIs` `Firebase`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=electron,react" height="35" alt="Desktop Application" />
+
+### Electron Desktop Applications
+
+Desktop software combining modern web technologies with desktop-specific application workflows.
+
+**Core technologies**
+
+`Electron` `React.js` `Node.js` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" height="35" alt="Backend System" />
+
+### Backend Systems
+
+API-driven systems with structured application logic, authentication, and relational or document-oriented databases.
+
+**Core technologies**
+
+`Node.js` `Express.js` `REST` `PostgreSQL` `MongoDB`
+
+</td>
+
+</tr>
+
+</table>
+
+> Replace these categories with 3–4 of your strongest real repositories once you decide which projects you want recruiters and clients to see first.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=waqas-gul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github"
+  alt="Waqas Gul GitHub Statistics"
+/>
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqas-gul&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"
+  alt="Waqas Gul Top Languages"
+/>
+
+<br><br>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=waqas-gul&theme=transparent&hide_border=true&ring=06B6D4&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=8B949E&dates=8B949E"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+## Current Focus
+
+<table>
+
+<tr>
+<td width="8%" align="center">
+<img src="https://skillicons.dev/icons?i=react" width="30" alt="React Native" />
+</td>
+<td width="25%"><b>React Native</b></td>
+<td>Improving advanced cross-platform mobile application development.</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=electron" width="30" alt="Electron" />
+</td>
+<td><b>Electron</b></td>
+<td>Building cleaner and more scalable desktop application architecture.</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js" />
+</td>
+<td><b>Backend Engineering</b></td>
+<td>Strengthening production-ready API and backend application structure.</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="30" alt="Docker" />
+</td>
+<td><b>Docker & DevOps</b></td>
+<td>Improving container-based development and deployment workflows.</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="30" alt="UI UX" />
+</td>
+<td><b>UI / UX Implementation</b></td>
+<td>Creating cleaner, responsive, and easier-to-use application interfaces.</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="30" alt="Architecture" />
+</td>
+<td><b>Application Architecture</b></td>
+<td>Improving maintainable and scalable full-stack project structures.</td>
+</tr>
+
+</table>
+
+---
+
+## Developer Snapshot
+
+```javascript
 const waqas = {
   role: "Web, Mobile & Desktop Application Developer",
-  location: "Pakistan",
 
-  builds: ["web apps", "React Native apps", "Electron apps", "REST & GraphQL APIs"],
-  works_with: ["React", "Vue", "Node.js", "Express", "PostgreSQL", "MongoDB"],
-  ships_on: ["Vercel", "Netlify", "Render", "Firebase", "AWS"],
+  applications: {
+    web: ["React.js", "Vue.js"],
+    mobile: ["React Native"],
+    desktop: ["Electron"]
+  },
 
-  currentFocus: [
-    "Advanced React Native patterns",
-    "Electron application architecture",
-    "Production-ready backend APIs",
-    "Docker and deployment workflows",
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "GraphQL"
   ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "MySQL",
+    "Firebase"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Docker",
+    "Postman"
+  ],
+
+  deployment: [
+    "AWS",
+    "Vercel",
+    "Netlify",
+    "Render"
+  ],
+
+  focus: "Building practical digital products from idea to deployment"
 };
 ```
 
 ---
 
-## Currently working on
-
-| Area | Focus |
-| --- | --- |
-| Mobile | Advanced React Native patterns, navigation and native module integration |
-| Desktop | Electron application architecture and process separation |
-| Backend | Production-ready API design, error handling and data validation |
-| Delivery | Docker fundamentals and repeatable deployment workflows |
-| Craft | UI/UX implementation detail and scalable full-stack project structure |
-
----
+## Let's Connect
 
 <div align="center">
 
-### Building something interesting? Let's talk.
+### Building something interesting?
 
-<a href="https://wgdeveloper.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-wgdeveloper.netlify.app-0B1017?style=for-the-badge&logo=googlechrome&logoColor=4CC2FF&labelColor=0B1017" alt="Portfolio" />
+I'm open to connecting with developers, teams, and people building useful digital products.
+
+<br>
+
+<a href="https://wgdeveloper.netlify.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
-<a href="https://www.linkedin.com/in/waqas-gul-b7580826b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Waqas%20Gul-0B1017?style=for-the-badge&logo=linkedin&logoColor=4CC2FF&labelColor=0B1017" alt="LinkedIn" />
+
+<a href="https://www.linkedin.com/in/waqas-gul-b7580826b/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
+
 <a href="mailto:waqasgul369@gmail.com">
-  <img src="https://img.shields.io/badge/Email-waqasgul369%40gmail.com-0B1017?style=for-the-badge&logo=gmail&logoColor=4CC2FF&labelColor=0B1017" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
+
+<a href="https://github.com/waqas-gul">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<br><br>
+
+<a href="https://git.io/typing-svg">
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=0891B2&center=true&vCenter=true&width=650&lines=Build.+Test.+Improve.+Ship.;Thanks+for+visiting+my+profile."
+  alt="Footer"
+/>
+</a>
+
+<br>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,45:0E7490,100:020617"
+  alt="Footer Banner"
+/>
 
 </div>
