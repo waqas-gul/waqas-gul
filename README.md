@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                 WAQAS GUL — GITHUB PROFILE                 -->
+<!--                 WAQAS GUL — GITHUB PROFILE                -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -74,7 +74,10 @@ My core development stack includes **React.js, React Native, Electron, Node.js, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,electron,postgres,mongodb,firebase,docker,aws" alt="Primary Technologies" />
+<img
+  src="https://skillicons.dev/icons?i=react,nodejs,electron,postgres,mongodb,firebase,docker,aws"
+  alt="Primary Technologies"
+/>
 
 </div>
 
@@ -87,7 +90,11 @@ My core development stack includes **React.js, React Native, Electron, Node.js, 
 
 <td width="33%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=react" height="48" alt="Web Development" />
+<img
+  src="https://skillicons.dev/icons?i=react"
+  height="48"
+  alt="Web Development"
+/>
 
 ### Web Applications
 
@@ -99,7 +106,11 @@ Modern web applications, dashboards, admin panels, LMS platforms, business porta
 
 <td width="33%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="Mobile Development" />
+<img
+  src="https://skillicons.dev/icons?i=androidstudio"
+  height="48"
+  alt="Mobile Development"
+/>
 
 ### Mobile Applications
 
@@ -111,7 +122,11 @@ Cross-platform mobile applications with API integration, authentication, state m
 
 <td width="33%" valign="top" align="center">
 
-<img src="https://skillicons.dev/icons?i=electron" height="48" alt="Desktop Development" />
+<img
+  src="https://skillicons.dev/icons?i=electron"
+  height="48"
+  alt="Desktop Development"
+/>
 
 ### Desktop Applications
 
@@ -200,8 +215,15 @@ flowchart LR
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Zustand-18181B?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Context%20API-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img
+  src="https://img.shields.io/badge/Zustand-18181B?style=flat-square&logo=react&logoColor=white"
+  alt="Zustand"
+/>
+
+<img
+  src="https://img.shields.io/badge/Context%20API-20232A?style=flat-square&logo=react&logoColor=61DAFB"
+  alt="Context API"
+/>
 
 </div>
 
@@ -373,17 +395,11 @@ flowchart LR
 flowchart LR
 
     IDEA["Product Idea"]
-
     PLAN["Requirements<br/>User Flow"]
-
     UI["UI / Application<br/>Development"]
-
     API["Backend<br/>APIs"]
-
     DATA["Database<br/>& Services"]
-
     TEST["Testing"]
-
     DEPLOY["Deployment"]
 
     IDEA --> PLAN
@@ -402,24 +418,50 @@ flowchart LR
 
 <img
   src="https://img.shields.io/badge/Web%20Applications-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt="Web Applications"
 />
 
 <img
   src="https://img.shields.io/badge/Mobile%20Applications-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt="Mobile Applications"
 />
 
 <img
   src="https://img.shields.io/badge/Desktop%20Applications-191970?style=for-the-badge&logo=electron&logoColor=9FEAF9"
+  alt="Desktop Applications"
 />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Admin%20Dashboards-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Business%20Platforms-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/LMS%20Platforms-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Authentication-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Database%20Integration-111827?style=flat-square" />
+<img
+  src="https://img.shields.io/badge/Admin%20Dashboards-111827?style=flat-square"
+  alt="Admin Dashboards"
+/>
+
+<img
+  src="https://img.shields.io/badge/Business%20Platforms-111827?style=flat-square"
+  alt="Business Platforms"
+/>
+
+<img
+  src="https://img.shields.io/badge/LMS%20Platforms-111827?style=flat-square"
+  alt="LMS Platforms"
+/>
+
+<img
+  src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square"
+  alt="REST APIs"
+/>
+
+<img
+  src="https://img.shields.io/badge/Authentication-111827?style=flat-square"
+  alt="Authentication"
+/>
+
+<img
+  src="https://img.shields.io/badge/Database%20Integration-111827?style=flat-square"
+  alt="Database Integration"
+/>
 
 </div>
 
@@ -433,13 +475,17 @@ flowchart LR
 
 <td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs" height="35" alt="Web Application" />
+<img
+  src="https://skillicons.dev/icons?i=react,nodejs"
+  height="35"
+  alt="Web Application"
+/>
 
 ### Full-Stack Web Applications
 
 Modern web applications combining responsive interfaces, backend APIs, authentication, and database-driven workflows.
 
-**Core technologies**
+**Core Technologies**
 
 `React.js` `Node.js` `Express.js` `PostgreSQL` `MongoDB`
 
@@ -447,13 +493,17 @@ Modern web applications combining responsive interfaces, backend APIs, authentic
 
 <td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=react,firebase" height="35" alt="Mobile Application" />
+<img
+  src="https://skillicons.dev/icons?i=react,firebase"
+  height="35"
+  alt="Mobile Application"
+/>
 
 ### React Native Applications
 
 Cross-platform mobile applications built around real workflows, backend communication, state management, and reusable UI architecture.
 
-**Core technologies**
+**Core Technologies**
 
 `React Native` `TypeScript` `REST APIs` `Firebase`
 
@@ -465,13 +515,17 @@ Cross-platform mobile applications built around real workflows, backend communic
 
 <td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=electron,react" height="35" alt="Desktop Application" />
+<img
+  src="https://skillicons.dev/icons?i=electron,react"
+  height="35"
+  alt="Desktop Application"
+/>
 
 ### Electron Desktop Applications
 
 Desktop software combining modern web technologies with desktop-specific application workflows.
 
-**Core technologies**
+**Core Technologies**
 
 `Electron` `React.js` `Node.js` `JavaScript`
 
@@ -479,13 +533,17 @@ Desktop software combining modern web technologies with desktop-specific applica
 
 <td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" height="35" alt="Backend System" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,postgres"
+  height="35"
+  alt="Backend System"
+/>
 
 ### Backend Systems
 
 API-driven systems with structured application logic, authentication, and relational or document-oriented databases.
 
-**Core technologies**
+**Core Technologies**
 
 `Node.js` `Express.js` `REST` `PostgreSQL` `MongoDB`
 
@@ -495,7 +553,7 @@ API-driven systems with structured application logic, authentication, and relati
 
 </table>
 
-> Replace these categories with 3–4 of your strongest real repositories once you decide which projects you want recruiters and clients to see first.
+> Replace these categories later with 3–4 of your strongest real repositories so visitors can immediately see actual products you have built.
 
 ---
 
@@ -532,51 +590,123 @@ API-driven systems with structured application logic, authentication, and relati
 <table>
 
 <tr>
+
 <td width="8%" align="center">
-<img src="https://skillicons.dev/icons?i=react" width="30" alt="React Native" />
+
+<img
+  src="https://skillicons.dev/icons?i=react"
+  width="30"
+  alt="React Native"
+/>
+
 </td>
+
 <td width="25%"><b>React Native</b></td>
-<td>Improving advanced cross-platform mobile application development.</td>
+
+<td>
+Improving advanced cross-platform mobile application development.
+</td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=electron" width="30" alt="Electron" />
+
+<img
+  src="https://skillicons.dev/icons?i=electron"
+  width="30"
+  alt="Electron"
+/>
+
 </td>
+
 <td><b>Electron</b></td>
-<td>Building cleaner and more scalable desktop application architecture.</td>
+
+<td>
+Building cleaner and more scalable desktop application architecture.
+</td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="Node.js" />
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs"
+  width="30"
+  alt="Node.js"
+/>
+
 </td>
+
 <td><b>Backend Engineering</b></td>
-<td>Strengthening production-ready API and backend application structure.</td>
+
+<td>
+Strengthening production-ready API and backend application structure.
+</td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="30" alt="Docker" />
+
+<img
+  src="https://skillicons.dev/icons?i=docker"
+  width="30"
+  alt="Docker"
+/>
+
 </td>
+
 <td><b>Docker & DevOps</b></td>
-<td>Improving container-based development and deployment workflows.</td>
+
+<td>
+Improving container-based development and deployment workflows.
+</td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="30" alt="UI UX" />
+
+<img
+  src="https://skillicons.dev/icons?i=figma"
+  width="30"
+  alt="UI UX"
+/>
+
 </td>
+
 <td><b>UI / UX Implementation</b></td>
-<td>Creating cleaner, responsive, and easier-to-use application interfaces.</td>
+
+<td>
+Creating cleaner, responsive, and easier-to-use application interfaces.
+</td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="30" alt="Architecture" />
+
+<img
+  src="https://skillicons.dev/icons?i=github"
+  width="30"
+  alt="Architecture"
+/>
+
 </td>
+
 <td><b>Application Architecture</b></td>
-<td>Improving maintainable and scalable full-stack project structures.</td>
+
+<td>
+Improving maintainable and scalable full-stack project structures.
+</td>
+
 </tr>
 
 </table>
@@ -589,41 +719,18 @@ API-driven systems with structured application logic, authentication, and relati
 const waqas = {
   role: "Web, Mobile & Desktop Application Developer",
 
-  applications: {
-    web: ["React.js", "Vue.js"],
-    mobile: ["React Native"],
-    desktop: ["Electron"]
+  build: {
+    web: "React.js / Vue.js",
+    mobile: "React Native",
+    desktop: "Electron",
+    backend: "Node.js / Express.js"
   },
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "GraphQL"
-  ],
+  data: "PostgreSQL • MongoDB • MySQL • Firebase",
+  tools: "Git • GitHub • Docker • Postman",
+  cloud: "AWS • Vercel • Netlify • Render",
 
-  databases: [
-    "PostgreSQL",
-    "MongoDB",
-    "MySQL",
-    "Firebase"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "Docker",
-    "Postman"
-  ],
-
-  deployment: [
-    "AWS",
-    "Vercel",
-    "Netlify",
-    "Render"
-  ],
-
-  focus: "Building practical digital products from idea to deployment"
+  focus: "Building practical products from idea to deployment"
 };
 ```
 
@@ -670,10 +777,10 @@ I'm open to connecting with developers, teams, and people building useful digita
 <br><br>
 
 <a href="https://git.io/typing-svg">
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=0891B2&center=true&vCenter=true&width=650&lines=Build.+Test.+Improve.+Ship.;Thanks+for+visiting+my+profile."
-  alt="Footer"
-/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=0891B2&center=true&vCenter=true&width=650&lines=Build.+Test.+Improve.+Ship.;Thanks+for+visiting+my+profile."
+    alt="Footer Animation"
+  />
 </a>
 
 <br>
