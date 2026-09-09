@@ -19,14 +19,14 @@
 
 <br><br>
 
-<a href="https://wgdeveloper.netlify.app/" target="_blank">
+<a href="https://wgdeveloper.netlify.app/">
   <img
     src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
     alt="Portfolio"
   />
 </a>
 
-<a href="https://www.linkedin.com/in/waqas-gul-b7580826b/" target="_blank">
+<a href="https://www.linkedin.com/in/waqas-gul-b7580826b/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
@@ -56,8 +56,6 @@
 
 </div>
 
-<br>
-
 ---
 
 ## About Me
@@ -86,6 +84,7 @@ My core development stack includes **React.js, React Native, Electron, Node.js, 
 ## What I Build
 
 <table>
+
 <tr>
 
 <td width="33%" valign="top" align="center">
@@ -93,14 +92,18 @@ My core development stack includes **React.js, React Native, Electron, Node.js, 
 <img
   src="https://skillicons.dev/icons?i=react"
   height="48"
-  alt="Web Development"
+  alt="Web Applications"
 />
 
-### Web Applications
+<h3>Web Applications</h3>
 
 Modern web applications, dashboards, admin panels, LMS platforms, business portals, and full-stack systems.
 
-`React.js` `Vue.js` `Node.js`
+<br><br>
+
+<code>React.js</code>
+<code>Vue.js</code>
+<code>Node.js</code>
 
 </td>
 
@@ -109,14 +112,18 @@ Modern web applications, dashboards, admin panels, LMS platforms, business porta
 <img
   src="https://skillicons.dev/icons?i=androidstudio"
   height="48"
-  alt="Mobile Development"
+  alt="Mobile Applications"
 />
 
-### Mobile Applications
+<h3>Mobile Applications</h3>
 
-Cross-platform mobile applications with API integration, authentication, state management, and production workflows.
+Cross-platform mobile applications with API integration, authentication, state management, and real-world workflows.
 
-`React Native` `TypeScript` `Firebase`
+<br><br>
+
+<code>React Native</code>
+<code>TypeScript</code>
+<code>Firebase</code>
 
 </td>
 
@@ -125,25 +132,30 @@ Cross-platform mobile applications with API integration, authentication, state m
 <img
   src="https://skillicons.dev/icons?i=electron"
   height="48"
-  alt="Desktop Development"
+  alt="Desktop Applications"
 />
 
-### Desktop Applications
+<h3>Desktop Applications</h3>
 
 Electron-based desktop applications, internal systems, dashboards, utilities, and productivity-focused software.
 
-`Electron` `React.js` `Node.js`
+<br><br>
+
+<code>Electron</code>
+<code>React.js</code>
+<code>Node.js</code>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 ## Application Architecture
 
-A simplified view of how I structure complete applications:
+A high-level view of how I structure complete applications:
 
 ```mermaid
 flowchart LR
@@ -156,10 +168,10 @@ flowchart LR
 
     C["API Layer<br/>Node.js / Express"]
 
-    D1["REST"]
+    D1["REST APIs"]
     D2["GraphQL"]
 
-    E["Data Layer"]
+    E["Data & Services"]
 
     F1["PostgreSQL"]
     F2["MongoDB"]
@@ -322,7 +334,7 @@ flowchart LR
 - React.js development
 - Vue.js development
 - JavaScript and TypeScript
-- Application state management
+- State management
 - API integration
 - Tailwind CSS
 - Bootstrap
@@ -335,7 +347,7 @@ flowchart LR
 ### Application Development
 
 - Full-stack web applications
-- React Native applications
+- React Native mobile applications
 - Electron desktop applications
 - Authentication workflows
 - Role-based access systems
@@ -353,10 +365,9 @@ flowchart LR
 
 ### Backend & Data
 
-- Node.js
-- Express.js
+- Node.js and Express.js
 - REST API development
-- GraphQL
+- GraphQL integration
 - MongoDB
 - PostgreSQL
 - MySQL
@@ -370,8 +381,7 @@ flowchart LR
 
 ### Development & Delivery
 
-- Git
-- GitHub
+- Git and GitHub
 - Docker
 - Postman
 - AWS
@@ -396,15 +406,15 @@ flowchart LR
 
     IDEA["Product Idea"]
     PLAN["Requirements<br/>User Flow"]
-    UI["UI / Application<br/>Development"]
+    APP["Application<br/>Development"]
     API["Backend<br/>APIs"]
     DATA["Database<br/>& Services"]
     TEST["Testing"]
     DEPLOY["Deployment"]
 
     IDEA --> PLAN
-    PLAN --> UI
-    UI --> API
+    PLAN --> APP
+    APP --> API
     API --> DATA
     DATA --> TEST
     TEST --> DEPLOY
@@ -478,7 +488,7 @@ flowchart LR
 <img
   src="https://skillicons.dev/icons?i=react,nodejs"
   height="35"
-  alt="Web Application"
+  alt="Full Stack Web"
 />
 
 ### Full-Stack Web Applications
@@ -496,7 +506,7 @@ Modern web applications combining responsive interfaces, backend APIs, authentic
 <img
   src="https://skillicons.dev/icons?i=react,firebase"
   height="35"
-  alt="Mobile Application"
+  alt="React Native"
 />
 
 ### React Native Applications
@@ -518,7 +528,7 @@ Cross-platform mobile applications built around real workflows, backend communic
 <img
   src="https://skillicons.dev/icons?i=electron,react"
   height="35"
-  alt="Desktop Application"
+  alt="Electron Applications"
 />
 
 ### Electron Desktop Applications
@@ -536,7 +546,7 @@ Desktop software combining modern web technologies with desktop-specific applica
 <img
   src="https://skillicons.dev/icons?i=nodejs,express,postgres"
   height="35"
-  alt="Backend System"
+  alt="Backend Systems"
 />
 
 ### Backend Systems
@@ -553,8 +563,6 @@ API-driven systems with structured application logic, authentication, and relati
 
 </table>
 
-> Replace these categories later with 3–4 of your strongest real repositories so visitors can immediately see actual products you have built.
-
 ---
 
 ## GitHub Analytics
@@ -570,7 +578,7 @@ API-driven systems with structured application logic, authentication, and relati
 <img
   height="165"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqas-gul&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"
-  alt="Waqas Gul Top Languages"
+  alt="Top Languages"
 />
 
 <br><br>
@@ -601,10 +609,12 @@ API-driven systems with structured application logic, authentication, and relati
 
 </td>
 
-<td width="25%"><b>React Native</b></td>
+<td width="25%">
+<b>React Native</b>
+</td>
 
 <td>
-Improving advanced cross-platform mobile application development.
+Advanced cross-platform mobile application development.
 </td>
 
 </tr>
@@ -621,10 +631,12 @@ Improving advanced cross-platform mobile application development.
 
 </td>
 
-<td><b>Electron</b></td>
+<td>
+<b>Electron</b>
+</td>
 
 <td>
-Building cleaner and more scalable desktop application architecture.
+Cleaner and more scalable desktop application architecture.
 </td>
 
 </tr>
@@ -636,15 +648,17 @@ Building cleaner and more scalable desktop application architecture.
 <img
   src="https://skillicons.dev/icons?i=nodejs"
   width="30"
-  alt="Node.js"
+  alt="Backend Engineering"
 />
 
 </td>
 
-<td><b>Backend Engineering</b></td>
+<td>
+<b>Backend Engineering</b>
+</td>
 
 <td>
-Strengthening production-ready API and backend application structure.
+Production-ready APIs and backend application structure.
 </td>
 
 </tr>
@@ -661,10 +675,12 @@ Strengthening production-ready API and backend application structure.
 
 </td>
 
-<td><b>Docker & DevOps</b></td>
+<td>
+<b>Docker & DevOps</b>
+</td>
 
 <td>
-Improving container-based development and deployment workflows.
+Container-based development and deployment workflows.
 </td>
 
 </tr>
@@ -681,10 +697,12 @@ Improving container-based development and deployment workflows.
 
 </td>
 
-<td><b>UI / UX Implementation</b></td>
+<td>
+<b>UI / UX Implementation</b>
+</td>
 
 <td>
-Creating cleaner, responsive, and easier-to-use application interfaces.
+Cleaner, responsive, and easier-to-use application interfaces.
 </td>
 
 </tr>
@@ -696,15 +714,17 @@ Creating cleaner, responsive, and easier-to-use application interfaces.
 <img
   src="https://skillicons.dev/icons?i=github"
   width="30"
-  alt="Architecture"
+  alt="Application Architecture"
 />
 
 </td>
 
-<td><b>Application Architecture</b></td>
+<td>
+<b>Application Architecture</b>
+</td>
 
 <td>
-Improving maintainable and scalable full-stack project structures.
+Maintainable and scalable full-stack project structures.
 </td>
 
 </tr>
@@ -715,24 +735,54 @@ Improving maintainable and scalable full-stack project structures.
 
 ## Developer Snapshot
 
-```javascript
-const waqas = {
-  role: "Web, Mobile & Desktop Application Developer",
+<table>
 
-  build: {
-    web: "React.js / Vue.js",
-    mobile: "React Native",
-    desktop: "Electron",
-    backend: "Node.js / Express.js"
-  },
+<tr>
+<td width="25%"><b>Role</b></td>
+<td>Web, Mobile & Desktop Application Developer</td>
+</tr>
 
-  data: "PostgreSQL • MongoDB • MySQL • Firebase",
-  tools: "Git • GitHub • Docker • Postman",
-  cloud: "AWS • Vercel • Netlify • Render",
+<tr>
+<td><b>Web</b></td>
+<td>React.js • Vue.js</td>
+</tr>
 
-  focus: "Building practical products from idea to deployment"
-};
-```
+<tr>
+<td><b>Mobile</b></td>
+<td>React Native</td>
+</tr>
+
+<tr>
+<td><b>Desktop</b></td>
+<td>Electron</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>Node.js • Express.js • REST APIs • GraphQL</td>
+</tr>
+
+<tr>
+<td><b>Data</b></td>
+<td>PostgreSQL • MongoDB • MySQL • Firebase</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>Git • GitHub • Docker • Postman</td>
+</tr>
+
+<tr>
+<td><b>Cloud</b></td>
+<td>AWS • Vercel • Netlify • Render</td>
+</tr>
+
+<tr>
+<td><b>Focus</b></td>
+<td>Building practical products from idea to deployment</td>
+</tr>
+
+</table>
 
 ---
 
@@ -744,16 +794,16 @@ const waqas = {
 
 I'm open to connecting with developers, teams, and people building useful digital products.
 
-<br>
+<br><br>
 
-<a href="https://wgdeveloper.netlify.app/" target="_blank">
+<a href="https://wgdeveloper.netlify.app/">
   <img
     src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
     alt="Portfolio"
   />
 </a>
 
-<a href="https://www.linkedin.com/in/waqas-gul-b7580826b/" target="_blank">
+<a href="https://www.linkedin.com/in/waqas-gul-b7580826b/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
@@ -788,7 +838,7 @@ I'm open to connecting with developers, teams, and people building useful digita
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,45:0E7490,100:020617"
-  alt="Footer Banner"
+  alt="Footer"
 />
 
 </div>
