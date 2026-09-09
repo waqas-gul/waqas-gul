@@ -625,9 +625,6 @@ const waqas = {
 
   focus: "Building practical digital products from idea to deployment"
 };
-```
-
----
 
 ## Let's Connect
 
